@@ -1,0 +1,17 @@
+{
+    "contents" : "function_a <- function() {\n  function_b()\n}\n",
+    "created" : 1409939628542.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "349033065",
+    "id" : "7425ACC8",
+    "lastKnownWriteTime" : 1409939668,
+    "path" : "~/play/potato/R/function_a.R",
+    "project_path" : "R/function_a.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

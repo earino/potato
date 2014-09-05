@@ -1,0 +1,17 @@
+{
+    "contents" : "function_b <- function() {\n  print(\"You called function B!\")\n}\n",
+    "created" : 1409939671641.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "338274072",
+    "id" : "937C0639",
+    "lastKnownWriteTime" : 1409939689,
+    "path" : "~/play/potato/R/function_b.R",
+    "project_path" : "R/function_b.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
